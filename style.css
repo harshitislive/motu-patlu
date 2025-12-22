@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: chocolate;
+    display: grid;
+    place-content: center;
+}
+
+.main {
+    background-color: white;
+    height: 600px;
+    width: 1000px;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+#pic {
+    height: 400px;
+}
+
+button {
+    padding: 10px 15px;
+    font-size: larger;
+}
+#startBtn {
+    background-color: greenyellow;
+}
+#stopBtn {
+    background-color: crimson;
+    color: white;
+}
