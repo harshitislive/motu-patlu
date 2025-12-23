@@ -8,6 +8,6 @@ function startDance() {
 
 
 function stopDance() {
-    pic.src = 'stand.webp';
+    pic.src = 'stand.png';
     audio.pause();
 }
