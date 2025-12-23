@@ -16,6 +16,10 @@ body {
     /* width: 1000px; */
     padding: 40px;
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
 }
 
 #pic {
